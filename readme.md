@@ -2,4 +2,8 @@
 
 *DOWNLOAD COUNT BY VERSION BELOW*
 
-[![Github Releases (by Release)](https://img.shields.io/github/downloads/HyconOS-Releases/RMX2001/V4.5/total.svg)](https://GitHub.com/HyconOS-Releases/RMX2001/releases)
+[![Github Releases (by Release)](https://img.shields.io/github/downloads/HyconOS-Releases/RMX2001/v4.5/total.svg)](https://GitHub.com/HyconOS-Releases/RMX2001/releases)
+
+[![Github Releases (by Release)](https://img.shields.io/github/downloads/HyconOS-Releases/RMX2001/v4.0/total.svg)](https://GitHub.com/HyconOS-Releases/RMX2001/releases)
+
+[![Github Releases (by Release)](https://img.shields.io/github/downloads/HyconOS-Releases/RMX2001/V3.5/total.svg)](https://GitHub.com/HyconOS-Releases/RMX2001/releases)
