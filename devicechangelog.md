@@ -1,5 +1,12 @@
 Device changelogs:
 
+===  21st September, 2021 ====
+
+    Compiled with clang 13.
+    Latest September Patch Merged android-11.0.0_r43
+    Fixed Safety Net Issues and by defalut it will pass 
+    Some other improvements and bug fixes.
+    Misc Improvements
 
 ===  21st August, 2021 ====
 
